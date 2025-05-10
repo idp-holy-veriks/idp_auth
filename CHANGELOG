@@ -1,0 +1,8 @@
+# Changelog
+
+## [0.0.1] - 2024-04-25
+
+### Added
+
+- Authentication and authorization using JWT moved from backend to specialised
+  microservice.
