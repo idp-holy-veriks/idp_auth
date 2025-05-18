@@ -5,5 +5,5 @@ python-multipart
 passlib
 sqlalchemy
 pydantic
-psycopg2
 uvicorn
+psycopg2-binary
